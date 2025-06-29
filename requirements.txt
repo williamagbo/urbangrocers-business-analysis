@@ -1,0 +1,18 @@
+# Create requirements.txt based on your actual imports
+cat > requirements.txt << EOF
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine Learning (if you're doing predictive analytics)
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Business Analytics
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
