@@ -5,10 +5,10 @@ UrbanGrocers Ltd. is a large retail supermarket chain operating in multiple urba
 
 ### 🧾 Datasets
 Three years (Jan 2022 - Dec 2024) of daily data from 10 retail locations across Ghana, including:
-- Sales_Data.csv
-- Inventory_Data.csv
-- Workforce_Data
-- External_Events.csv
+- [Sales_Data.csv](data/raw/sales_data.csv)
+- [Inventory_Data.csv](data/raw/inventory_data.csv)
+- [Workforce_Data.csv](data/raw/workforce_data.csv)
+- [External_Events.csv](data/raw/external_events.csv)
 
 ### 🔧 Analytics Tasks
 #### 📊 Predictive Analytics Tasks
@@ -24,10 +24,10 @@ Three years (Jan 2022 - Dec 2024) of daily data from 10 retail locations across 
 - How can holidays and external events improve inventory forecasting accuracy?
 
 #### 📦 Deliverables
-- A comprehensive business report: UrbanGrocersLtd_Predictive Analytics_Report.pdf
+- A comprehensive business report: UrbanGrocersLtd_Predictive_Analytics_Report.pdf
 - A Power BI (.pbix) file and a Jupyter notebook (.pynb) file
-	- UrbanGrocers.pbix
-	- UrbanGrocers.ipynb
+	- [UrbanGrocers Dashboard](reports/powerbi/urbangrocers_dashboard.pbix)
+	- [UrbanGrocers Jupyter Notebook](notebooks/urbangrocers.ipynb)
 - The visualization dashboard includes visualizations of sales forecasts, inventory predictions, and workforce allocation models.
 
 ### 🔄 The Process
